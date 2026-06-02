@@ -1,2 +1,5 @@
+"This is intro to AI, semester 3."
+"Name: Fredda Nyarko"
+"ID: 92632028"
 "# Lab 0: Git Practice" 
 "This is my first Git repository for the AI course." 
