@@ -18,7 +18,7 @@ def verify_environment():
     results.append(f"✅ Python Version: {python_version}")
     
     # Check operating system
-    results.append(f"✅ OS: {platform.system()} {platform.release()}")
+    results.append(f"✅ OS: ¬{platform.system()} {platform.release()}")
     
     # Required packages with versions
     required_packages = {
